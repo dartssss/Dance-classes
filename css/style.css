@@ -75,7 +75,7 @@ h3 {
     margin-bottom: 16px;
 }
 
-h4 {}
+
 
 .txt {
     font-size: 20px;
@@ -224,15 +224,9 @@ li.m:hover .underline {
     width: 1000px;
 }
 
- .about .wrap .divider{
-  
- } 
 
-.about .txt{
-   
-    /* margin-left: 130px; */
-    
-}
+
+
 
 .about .wrap .txt {
    
@@ -247,9 +241,7 @@ li.m:hover .underline {
 }
 
 
-.about h3{
-   
-}
+
 
 .about  .wrap h3{
     
