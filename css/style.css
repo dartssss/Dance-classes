@@ -7,6 +7,9 @@ body {
     background-color: #20001a;
 
 }
+main{
+    width: 100%;
+}
 
 .index {
     background-image: url(../img/photo\ first\ screen.png);
@@ -378,6 +381,10 @@ li.m:hover .underline {
 
 .price .content{
     margin-bottom: 40px;
+}
+
+.price .divider{
+   width: auto;
 }
 
 footer{
